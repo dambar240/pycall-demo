@@ -16,6 +16,7 @@ get '/spacy' do
   nlp = spacy.load("en_core_web_sm")
   doc = nlp("Apple is looking at buying U.K. startup for $1 billion")
   puts doc
+  puts 'Check'
   'You should see the python math evaluation in the console'
 rescue => e
   e.getMessage
