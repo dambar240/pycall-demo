@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require './app'
+require './web/app'
 # require 'rack/protection'
 # use Rack::Protection
 

@@ -2,8 +2,15 @@
 
 A simple program to import a python module and use it inside a web-server.
 
-Run the following commands
+## Runing web the following commands
+
 1. bundle install
-2. bundle exec puma
+2. cd web
+3. bundle exec puma
 
 Navigate to localhost:port
+
+## Running on terminal
+
+1. 
+
